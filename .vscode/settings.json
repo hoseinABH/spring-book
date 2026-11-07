@@ -1,0 +1,26 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.format.settings.profile": "GoogleStyle",
+    "editor.formatOnSave": true,
+    "java.saveActions.organizeImports": true,
+    "java.jdt.ls.java.home": "/Users/hosein/Library/Java/JavaVirtualMachines/openjdk-23.0.1/Contents/Home",
+    "spring-boot.ls.javahome": "/Users/hosein/Library/Java/JavaVirtualMachines/openjdk-23.0.1/Contents/Home",
+    "maven.terminal.useJavaHome": true,
+    "terminal.integrated.env.osx": {
+        "JAVA_HOME": "/Users/hosein/Library/Java/JavaVirtualMachines/openjdk-23.0.1/Contents/Home"
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/bin": true
+    },
+    "java.format.settings.url": ".vscode/java-formatter.xml"
+}
